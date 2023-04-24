@@ -1,0 +1,54 @@
+body {
+	background-image: url("1.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.logo {
+	width: 100%;
+	height: 500px;
+	text-align: center;
+	margin-top: 440px;
+}
+.pic {
+	width: 510px;
+	height: 470px;
+}
+.media {
+	width: 100%;
+	height: 150px;
+}
+.media{
+	text-align: center;
+	margin-top: 50px;
+}
+.mediaa {
+	padding-left: 20px;
+}
+.box{
+	width: 100%;
+	height: 150px;
+	margin-top: 45px;
+	text-align: center;
+}
+.box1{
+	margin-right: 30px;
+	height: 110px;
+	width: 350px;
+}
+.box2{
+	height: 110px;
+	width: 350px;
+}
+.contact{
+	width: 100%;
+	height: 150px;
+	text-align: center;
+	margin-top: 60px;
+}
+.text{
+	width: 100%;
+	height: 150px;
+	text-align: center;
+	margin-top: 30px;
+}
+
